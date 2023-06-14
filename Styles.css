@@ -13,3 +13,23 @@ margin-right: auto;
 .Gaming{
     background-image: url(https://wallpapercave.com/dwp1x/wp8985755.jpg)
 }
+.GamePage {
+background-color:burlywood;
+margin-left: auto;
+margin-right: auto;
+padding-right: 20px;
+padding-left: 20px;
+padding-top: 0.5%;
+}
+.Heading {
+    text-align:center;
+}
+.WhyBlue {
+    border-color: black;
+}
+Body {
+    font-family: sans-serif;
+}
+.EpicQuote {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
