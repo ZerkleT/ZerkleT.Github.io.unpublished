@@ -31,5 +31,15 @@ Body {
     font-family: sans-serif;
 }
 .EpicQuote {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.GamePageLink {
+    color: black;
+}
+.GamePageLink:visited {
+    color: darkgray
+}
+.GamePageLink:hover {
+    color:darkblue
 }
