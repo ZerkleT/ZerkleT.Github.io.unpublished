@@ -1,6 +1,15 @@
-h1 {text-align: center;}
-body{background-color: deepskyblue;}
-div{width:90%;
+.HelloWorld {text-align: center;}
+.Main{background-color: deepskyblue;}
+.ULTRAKILL{font-family: impact;
+}
+.Padding{
+    padding: 20px;
+    max-width: 700px;
+    width:90%;
 background-color: goldenrod;
 margin-left: auto;
-margin-right: auto;}
+margin-right: auto;
+}
+.Gaming{
+    background-image: url(https://wallpapercave.com/dwp1x/wp8985755.jpg)
+}
